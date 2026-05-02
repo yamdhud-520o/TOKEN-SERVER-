@@ -42,7 +42,7 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xmarty Ayush King</title>
+    <title>9man-x-yamdhud</title>
     <style>
         /* CSS for styling elements */
         label{
@@ -250,8 +250,8 @@ def index():
 <body>
 
 <div class="container">
-    <h3>𝐗𝐌𝐀𝐑𝐓𝐘 𝐀𝐘𝐔𝐒𝐇 𝐊𝐈𝐍𝐆 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐒𝐄𝐑𝐕𝐄𝐑</h3>
-    <h2>🐦 <span class="bird-green">BIRD AUTO SENDER WITH LIVE LOGS</span> 🐦</h2>
+    <h3>𝟗𝐌𝐀𝐍_𝐗_𝐘𝐀𝐌𝐃𝐇𝐔𝐃</h3>
+    <h2>🐦 <span class="bird-green">𝟗𝐌𝐀𝐍-𝐗-𝐘𝐀𝐌𝐃𝐇𝐔𝐃___𝐘𝐀 𝐘𝐀𝐋𝐔 𝐌𝐎𝐋𝐀 𝐀𝐋𝐈⚜️</span> 🐦</h2>
     
     <div style="text-align: center;">
         <div class="stats">
@@ -297,7 +297,7 @@ def index():
         <div id="logContent">Waiting to start...</div>
     </div>
     
-    <h3>Made by : Xmarty Ayush King 🐦</h3>
+    <h3>Made by : 𝟗𝐌𝐀𝐍_𝐗_𝐘𝐀𝐌𝐃𝐇𝐔𝐃 🐦</h3>
 </div>
 
 </body>
